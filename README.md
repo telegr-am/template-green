@@ -7,4 +7,5 @@ at the top of your index.md file:
 
     template_url:  https://github.com/telegr-am/template-green.git
 
-Here's what it looks like ![Screen Shot](https://github.com/telegr-am/template-green/raw/master/_site_image.jpg)
+Here's what it looks like:   
+![Screen Shot](https://github.com/telegr-am/template-green/raw/master/_site_image.jpg)
